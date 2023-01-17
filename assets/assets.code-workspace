@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../configs"
+		},
+		{
+			"path": "../../data"
+		},
+		{
+			"path": "../../ldm"
+		},
+		{
+			"path": "../../ldm2"
+		},
+		{
+			"path": "../../nataili"
+		},
+		{
+			"path": "../../worker"
+		}
+	]
+}
